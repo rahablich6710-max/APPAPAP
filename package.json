@@ -1,0 +1,9 @@
+{
+  "name": "scan-review",
+  "version": "1.0.0",
+  "description": "QR code review and feedback tool for small businesses",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
